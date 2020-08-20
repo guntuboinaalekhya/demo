@@ -2,6 +2,6 @@
 
 This is simple readme file
 
-Hello i have made chnages to hereeee
+no problem it will be resolved
 
 simple changes to
